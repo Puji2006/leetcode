@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Puji2006/leetcode/tree/master/0011-container-with-most-water) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1929-concatenation-of-array](https://github.com/Puji2006/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Puji2006/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
