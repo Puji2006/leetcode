@@ -3,8 +3,8 @@ class Solution {
         int maxHeight = 0;
         int currHeight = 0;
 
-        for (int g : gain) {
-            currHeight += g;
+        for (int i : gain) {
+            currHeight += i;
             maxHeight = Math.max(maxHeight, currHeight);
         }
 
