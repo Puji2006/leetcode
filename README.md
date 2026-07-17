@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Puji2006/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Puji2006/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Puji2006/leetcode/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puji2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Puji2006/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puji2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -89,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Puji2006/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puji2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
