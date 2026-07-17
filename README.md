@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Puji2006/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Puji2006/leetcode/tree/master/0010-regular-expression-matching) |
+| [1773-count-items-matching-a-rule](https://github.com/Puji2006/leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Puji2006/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/Puji2006/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Puji2006/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/Puji2006/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/Puji2006/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
