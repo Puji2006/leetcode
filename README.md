@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Puji2006/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Puji2006/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Puji2006/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Puji2006/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Puji2006/leetcode/tree/master/0645-set-mismatch) |
@@ -57,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/Puji2006/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Puji2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puji2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -106,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Puji2006/leetcode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
