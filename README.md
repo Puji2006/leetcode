@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Puji2006/leetcode/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Puji2006/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/Puji2006/leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Puji2006/leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Puji2006/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Puji2006/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Puji2006/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Puji2006/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puji2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Puji2006/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
