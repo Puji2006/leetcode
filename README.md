@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Puji2006/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Puji2006/leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Puji2006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Puji2006/leetcode/tree/master/0242-valid-anagram) |
 | [1773-count-items-matching-a-rule](https://github.com/Puji2006/leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Puji2006/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Puji2006/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Puji2006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Puji2006/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
