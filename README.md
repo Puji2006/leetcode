@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Puji2006/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Puji2006/leetcode/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Puji2006/leetcode/tree/master/0242-valid-anagram) |
 | [1773-count-items-matching-a-rule](https://github.com/Puji2006/leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Puji2006/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Puji2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Puji2006/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Puji2006/leetcode/tree/master/0645-set-mismatch) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Puji2006/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Puji2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Puji2006/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
