@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Puji2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Puji2006/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Puji2006/leetcode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Puji2006/leetcode/tree/master/0705-design-hashset) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Puji2006/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Puji2006/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Puji2006/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Puji2006/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Puji2006/leetcode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Puji2006/leetcode/tree/master/0705-design-hashset) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Puji2006/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Puji2006/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Puji2006/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0705-design-hashset](https://github.com/Puji2006/leetcode/tree/master/0705-design-hashset) |
 ## Trie
 |  |
 | ------- |
@@ -153,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Puji2006/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Puji2006/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
