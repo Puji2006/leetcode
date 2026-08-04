@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Puji2006/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Puji2006/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Puji2006/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Puji2006/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Puji2006/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Puji2006/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Puji2006/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Puji2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Puji2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Puji2006/leetcode/tree/master/0242-valid-anagram) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Puji2006/leetcode/tree/master/0705-design-hashset) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Puji2006/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
